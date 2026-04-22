@@ -42,18 +42,22 @@ hostname && hostname -I && whoami && echo $SHELL && pwd
 
 ## Key Output 
 ### Ubuntu Host
+```
 ubuntu-lab
 10.10.10.x
 student
 /bin/bash
 /home/student/module01
+```
 
 ### Kali Linux Host
+```
 kali
 10.10.10.y
 kali
 /bin/bash
 /home/kali/module01
+```
 
 ## What I Learned
 Working across two hosts with different roles requires discipline from the start. Misidentifying which host you are on during an assessment can lead to incorrect results or scope violations. Establishing a baseline context early prevents this.
