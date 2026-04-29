@@ -9,7 +9,7 @@ Seluruh aktivitas dilakukan pada dua host lab dengan peran yang berbeda:
 | **Ubuntu Lab** | *Primary workstation* — pengumpulan bukti, analisis log, scripting, pengelolaan file |
 | **Kali Linux** | *Validation workstation* — DNS lookup, inspeksi HTTP header, enumerasi service localhost |
 
-> ⚠️ **Catatan Etika:** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan dan terisolasi. Tidak ada pemindaian, pengujian, pengumpulan data, atau perubahan konfigurasi yang dilakukan pada sistem di luar cakupan lab.
+> ⚠️ **Catatan :** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan dan terisolasi. Tidak ada pemindaian, pengujian, pengumpulan data, atau perubahan konfigurasi yang dilakukan pada sistem di luar cakupan lab.
 
 ---
 
