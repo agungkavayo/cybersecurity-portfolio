@@ -10,7 +10,7 @@ Seluruh aktivitas dilakukan pada dua host lab dengan peran yang berbeda:
 | **Kali Linux** | *Validation workstation* — DNS check, service validation, localhost scanning, header inspection |
 | **Local Targets** | *Safe practice target* — Juice Shop (`127.0.0.1:3000`) dan DVWA (`127.0.0.1:8081`) untuk exposure validation |
 
-> ⚠️ **Catatan Etika:** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan dan terisolasi. Tidak ada load testing, perubahan service, atau eksperimen di luar scope localhost dan dataset praktikum.
+> ⚠️ **Catatan :** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan dan terisolasi. Tidak ada load testing, perubahan service, atau eksperimen di luar scope localhost dan dataset praktikum.
 
 ---
 
