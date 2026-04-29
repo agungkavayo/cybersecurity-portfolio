@@ -11,7 +11,7 @@ Seluruh aktivitas dilakukan pada dua host lab dengan peran yang berbeda:
 | **Local Targets** | *Safe practice target* — validasi service web lokal dan korelasi dengan host state |
 | **Datasets `/opt/jccsah`** | Log sample, PCAP sample, phishing sample, dan forensics artifacts |
 
-> ⚠️ **Catatan Etika:** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan. Tidak ada privilege escalation, perubahan service global, atau eksperimen destructive yang dilakukan di luar scope yang ditetapkan.
+> ⚠️ **Catatan :** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan. Tidak ada privilege escalation, perubahan service global, atau eksperimen destructive yang dilakukan di luar scope yang ditetapkan.
 
 ---
 
