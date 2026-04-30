@@ -9,7 +9,7 @@ Seluruh aktivitas dilakukan pada dua host lab dengan peran yang berbeda:
 | **Ubuntu Lab** | *Primary workstation* — pengumpulan bukti, analisis log, scripting, pengelolaan file |
 | **Kali Linux** | *Validation workstation* — DNS lookup, inspeksi HTTP header, enumerasi service localhost |
 
-> ⚠️ **Catatan :** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan dan terisolasi. Tidak ada pemindaian, pengujian, pengumpulan data, atau perubahan konfigurasi yang dilakukan pada sistem di luar cakupan lab.
+> ⚠️ **Catatan:** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan dan terisolasi. Tidak ada pemindaian, pengujian, pengumpulan data, atau perubahan konfigurasi yang dilakukan pada sistem di luar cakupan lab.
 
 ---
 
@@ -966,5 +966,3 @@ grep -RinE 'password|secret|token|urgent|verify|login|credential|api_key|passwd'
 | `phishing_review.txt` | `~/module01/evidence/` | Salinan dan analisis sampel email phishing |
 | `password_strength_notes.txt` | `~/module01/evidence/` | Dokumentasi prinsip pengelolaan kata sandi |
 | `risky_strings_findings.txt` | `~/module01/evidence/` | Hasil pemindaian string berisiko pada dataset |
-
----
