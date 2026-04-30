@@ -11,7 +11,7 @@ Seluruh aktivitas dilakukan pada dua host lab dengan peran yang berbeda:
 | **Local Targets** | *Safe practice target* — validasi service web lokal dan korelasi dengan host state |
 | **Datasets `/opt/jccsah`** | Log sample, PCAP sample, phishing sample, dan forensics artifacts |
 
-> ⚠️ **Catatan :** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan. Tidak ada privilege escalation, perubahan service global, atau eksperimen destructive yang dilakukan di luar scope yang ditetapkan.
+> ⚠️ **Catatan:** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan. Tidak ada privilege escalation, perubahan service global, atau eksperimen destructive yang dilakukan di luar scope yang ditetapkan.
 
 ---
 
@@ -1164,11 +1164,11 @@ cat > ~/mod3/reports/operating_notes.md <<'EOF'
 
 ## Fondasi yang Siap Dibawa ke Modul 04
 
-- ✅ File system dan permission dipahami secara operasional
-- ✅ Process hierarchy dapat dibaca dan diinterpretasikan
-- ✅ Log dari berbagai sumber dapat dikorelasikan
-- ✅ Bash dan Python siap dipakai untuk automation
-- ✅ Assessment writing sebagai habit — bukan langkah tambahan
+- File system dan permission dipahami secara operasional
+- Process hierarchy dapat dibaca dan diinterpretasikan
+- Log dari berbagai sumber dapat dikorelasikan
+- Bash dan Python siap dipakai untuk automation
+- Assessment writing sebagai habit — bukan langkah tambahan
 EOF
 ```
 
