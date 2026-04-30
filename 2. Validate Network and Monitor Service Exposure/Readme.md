@@ -10,7 +10,7 @@ Seluruh aktivitas dilakukan pada dua host lab dengan peran yang berbeda:
 | **Kali Linux** | *Validation workstation* — DNS check, service validation, localhost scanning, header inspection |
 | **Local Targets** | *Safe practice target* — Juice Shop (`127.0.0.1:3000`) dan DVWA (`127.0.0.1:8081`) untuk exposure validation |
 
-> ⚠️ **Catatan :** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan dan terisolasi. Tidak ada load testing, perubahan service, atau eksperimen di luar scope localhost dan dataset praktikum.
+> ⚠️ **Catatan:** Seluruh aktivitas dilakukan **hanya** pada lingkungan lab yang telah disediakan dan terisolasi. Tidak ada load testing, perubahan service, atau eksperimen di luar scope localhost dan dataset praktikum.
 
 ---
 
@@ -966,11 +966,11 @@ Setiap area yang dikerjakan di Modul 02 memiliki kelanjutan langsung di Modul 03
 
 ## Fondasi yang Siap Dibawa ke Modul 03
 
-- ✅ Mampu membaca baseline host dari sisi jaringan
-- ✅ Mampu memvalidasi service dari dua perspektif
-- ✅ Mampu men-troubleshoot secara terstruktur dan evidence-based
-- ✅ Mampu membaca log dan packet summary untuk konteks operasional
-- ✅ Mampu mendokumentasikan temuan dalam format assessment yang profesional
+- Mampu membaca baseline host dari sisi jaringan
+- Mampu memvalidasi service dari dua perspektif
+- Mampu men-troubleshoot secara terstruktur dan evidence-based
+- Mampu membaca log dan packet summary untuk konteks operasional
+- Mampu mendokumentasikan temuan dalam format assessment yang profesional
 EOF
 ```
 
